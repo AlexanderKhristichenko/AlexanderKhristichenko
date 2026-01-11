@@ -10,6 +10,8 @@ Let's collaborate :)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderKhristichenko&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderKhristichenko&theme=tokyonight&layout=compact)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlexanderKhristichenko&show_icons=true&theme=tokyonight)
+
 
 
 
