@@ -9,6 +9,8 @@ Let's collaborate :)
 # 📊 GitHub Stats:
 
 ![GitHub Stats](https://my-stats.vercel.app/api?username=AlexanderKhristichenko&show_icons=true&theme=tokyonight)
+![Top Langs](https://my-stats.vercel.app/api/top-langs/?username=AlexanderKhristichenko&layout=compact&theme=tokyonight)
+
 
 
 ---
